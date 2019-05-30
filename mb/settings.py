@@ -25,7 +25,7 @@ SECRET_KEY = 'ol+(c#_t6wjfn#1o45=i2!_%2f8z84okkl7j%42rtgn68hqqe9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
